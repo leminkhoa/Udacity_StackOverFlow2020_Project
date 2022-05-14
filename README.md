@@ -26,7 +26,7 @@ The working directory includes **data folder** and an **analysis notebook**:
 - **Analysis notebook** _(ipynb format)_, which is written in Python, shows detailed code and visualises results to answer all of the above questions.
 
 ## Findings
-The key findings of analysis are summarised at the blog post available [here](https://khoale93.wordpress.com/2022/02/25/are-you-a-good-fit-for-a-data-science-role/).
+The key findings of analysis are summarised at the blog post available [here](https://medium.com/@lminhkhoa/are-you-a-good-fit-for-a-data-science-role-1e5dc6b74c00).
 
 ## License, Authors and Acknowledgements
 The dataset used in this analysis derives from Stack Overflow's annual Developer Survey, which is the largest survey of people who code around the world. You can either download the data in this repository or from the public source [Stack Overflow Survey - Multiple Years](https://insights.stackoverflow.com/survey).
